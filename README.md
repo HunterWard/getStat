@@ -3,12 +3,12 @@
 
 Data that is scraped:
 
--Name
--Position
--Team
--Height/Weight
--College
--PlayerID (Unique ID that can be used by other programs to scrape more data)
+- Name
+- Position
+- Team
+- Height/Weight
+- College
+- PlayerID (Unique ID that can be used by other programs to scrape more data)
 
 
 # Skills Involved
