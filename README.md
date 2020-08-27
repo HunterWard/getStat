@@ -10,6 +10,8 @@ Data that is scraped:
 - College
 - PlayerID (Unique ID that can be used by other programs to scrape more data)
 
+<img src='./misc/a.png'>
+
 
 # Skills Involved
  - SQL
